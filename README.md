@@ -26,7 +26,7 @@ Figure out what you need to change to give Javascript access to the `h1#header` 
 
 **YOUR NOTES**
 ```
-
+Need to put inside an event listener to make sure the DOM is loaded. 
 ```
 
 ## Deliverable 2
@@ -35,7 +35,7 @@ Now that you have access to the `h1#header` element, use Javascript to change th
 
 **YOUR NOTES**
 ```
-
+use the header constant go to style and color, set to red
 ```
 
 ## Deliverable 3
@@ -57,7 +57,9 @@ Create a DOM element that looks like this for each player and append it to the `
 
 **YOUR NOTES**
 ```
-
+1. select the empty player-selector container
+2. create forEach loop
+3. 
 ```
 
 ## Deliverable 4
